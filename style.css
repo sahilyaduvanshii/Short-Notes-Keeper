@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* box-model*/
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZyUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .card-img-top {
+    padding: 15px;
+    height: 300px;
+    width: auto;
+  }
+  
+  .place__holder__image {
+    width: 100%;
+  }
+  .navbar{
+    background-image: url(https://thumbs.gfycat.com/HomelyBewitchedItaliangreyhound-size_restricted.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
